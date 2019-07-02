@@ -2,7 +2,9 @@ Extremely easy React application letting you to chill off and play tic tac toe i
 Developed through official React Tutorial in here https://reactjs.org/tutorial/tutorial.html
 To be developed and extended for training purposes.
 
-![Screenshot](./src/screenshots/tictactoe.png)
+<p>
+  <img src="/src/screenshots/tictactoe.PNG" width="500" title="hover text">
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
