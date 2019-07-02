@@ -1,3 +1,9 @@
+Extremely easy React application letting you to chill off and play tic tac toe in your browser. 
+Developed through official React Tutorial in here https://reactjs.org/tutorial/tutorial.html
+To be developed and extended for training purposes.
+
+![Screenshot](./src/screenshots/tictactoe.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
